@@ -1,9 +1,19 @@
 # Testing
 
- - bullet list
- - testing
+- bullet list
+- testing
 
- ---
+---
 
- ## testing
- ### Testing
+## testing
+
+### Testing
+
+```js
+// Testing out code blocks for posts
+const testing = console.log("Test");
+
+function myFn() {
+  return null;
+}
+```
