@@ -18,4 +18,4 @@ function myFn() {
 }
 ```
 
-![test](https://raw.githubusercontent.com/AndyAshley/dev-portfolio-posts/main/content/posts/1/image-1.png)
+![test](https://raw.githubusercontent.com/AndyAshley/dev-portfolio-posts/main/content/posts/1/post_thumbnail_test.png)
