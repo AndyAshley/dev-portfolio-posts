@@ -3,5 +3,6 @@
     "date": "2025-03-01",
     "title": "Test Post 1",
     "category": "Software Engineering",
+    "preview": "This is a test post for the dev-portfolio-posts repository.",
     "thumbnail": "https://raw.githubusercontent.com/AndyAshley/dev-portfolio-posts/main/content/posts/1/post_thumbnail_test.png"
 }
