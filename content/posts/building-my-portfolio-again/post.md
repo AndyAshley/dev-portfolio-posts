@@ -30,7 +30,7 @@ This portfolio isn’t just a static shrine to my past projects, it’s a **livi
 **Tech deep dives** – I'll write about random things I build (and break).  
 **Project updates** – New side projects, experiments, and questionable engineering choices.  
 **3D Sculpting** – Because sometimes a model doesn’t exist, so I make it.
-**Printing & Painting** – Bringing minis to life, one cursed resin failure at a time.
+**Printing & Painting** – Because the only thing worse than a resin misprint is remembering I still haven’t painted last year’s models.
 **Building Keyboards** – Because off-the-shelf keyboards don't cut it.
 
 
