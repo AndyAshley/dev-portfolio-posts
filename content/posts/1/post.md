@@ -2,7 +2,7 @@
 
 
 If you’re a developer, chances are you’ve redesigned your portfolio at least **five times** without ever finishing it.  
-For me? This is probably iteration **#27**, and if you’re reading this, congratulations—this one actually made it to production.  
+For me? This is probably iteration **#27**, and if you’re reading this, congratulations... this one actually made it to production.  
 
 
 - Will I leave it alone? Probably not.  
@@ -15,16 +15,16 @@ This time, I took a more **practical** approach:
 
 
 **Next.js 15** – Because SSR, static generation, and React Server Components.
-**TailwindCSS** – Because while writing CSS from scratch is fun, and I enjoy writing class names that take up the entire DOM.
+**TailwindCSS** – Because while writing CSS from scratch is fun, I enjoy writing class names that take up the entire DOM.
 **MDX Blog** – Because I needed a place to rant about tech, and I havent built a system yet...
 **Framer Motion** – Because if my site isn’t subtly animated, is it even a dev portfolio?
-**Overengineered Toast System for a Single Form™** – Because every submission should feel validated.  
+**Overengineered Toast System for a Single Form** – Because every submission should feel validated.  
 
 
 ## What’s Next?  
 
 
-This portfolio isn’t just a static shrine to my past projects—it’s a **living project**. Expect more:  
+This portfolio isn’t just a static shrine to my past projects, it’s a **living project**. Expect more:  
 
 
 **Tech deep dives** – I'll write about random things I build (and break).  
